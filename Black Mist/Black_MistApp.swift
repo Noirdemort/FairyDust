@@ -11,7 +11,7 @@ import SwiftUI
 struct Black_MistApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CircleParkingView()
         }
     }
 }
